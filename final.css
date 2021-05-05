@@ -1,0 +1,50 @@
+
+  body {background-color:#FFFFFF; 
+	 color: #000000;
+	 font-family: Arial }
+ 
+ header {background-color: #FFFFFF;
+	         text-align:center;
+			 height: 250px;
+			 width: 1000px;
+			 background-image: url(logo3.jpg) ;
+			 
+			 box-shadow: 10px 10px 25px #F4EDEB;
+			 }
+	 
+	
+        
+h1 { font-size: 3em;
+     padding-top: 30px;
+     padding-left: 220px;
+     line-height: 200%;
+      }
+	 h1     {line-height : 200%;}
+	 
+	 nav a:link { color: #000000; }
+     nav a:visited { color: #404040; }
+     nav a:hover { color: #009900; }
+
+nav { font-weight: bold;
+      text-align: center;
+      font-size: 1.5em;
+      padding-top: 10px;
+      float: left;
+      width: 200px; }
+nav ul { list-style-type: none; padding-left: 0px; }
+nav a { text-decoration: none; }
+			
+	 }
+	 
+	 footer {background-color: #D2B48C;
+	         font-size: .60em;
+			 font-style:italic;
+			 text-align:center;
+			 box-shadow: 10px 10px 5px #F4EDEB;
+			 }
+			 #wrapper {width: 80%;
+			          margin-right:auto;
+					  margin-left:auto;
+					  }
+					  
+					  
